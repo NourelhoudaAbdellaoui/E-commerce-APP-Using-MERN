@@ -21,3 +21,13 @@ The steps that I follow it for building this project
    5.9 create route for /api/products
    5.10 return products
    5.11 run npm start
+6. Fetch Products From Backend
+   6.1 Set Proxy in package.jsoon
+   6.2 npm install axios
+   6.3 use state hook
+   6.4 use effect hook
+   6.5 use reducer hook
+7. Right now we will change useState by useReduce (Manage State By Reducer Hook)
+   7.1 define reducer
+   7.2 update fetch data
+   7.3 get state from useReducer
