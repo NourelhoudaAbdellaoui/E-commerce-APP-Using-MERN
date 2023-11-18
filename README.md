@@ -31,3 +31,14 @@ The steps that I follow it for building this project
    7.1 define reducer
    7.2 update fetch data
    7.3 get state from useReducer
+8. Add Bootstrap UI framework
+   8.1 npm install react-bootstrap bootstrap
+   8.2 update App.js
+9. In this step We will create the products Details Screen
+   9.1 Fetch product from backend
+   9.2 create 3 columns for image, info and action
+10. Create Loding and Message Component
+    10.1 create loading Component
+    10.2 use spinner component
+    10.3 create message component
+    10.4 create utils.js to define getError function
